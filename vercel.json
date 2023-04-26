@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "yucccc.cn/:match*"
+      "destination": "yes-play-music-saxi.vercel.app/:match*"
     }
   ]
 }
